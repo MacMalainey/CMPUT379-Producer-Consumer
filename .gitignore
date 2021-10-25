@@ -1,0 +1,6 @@
+# Executable and built files
+prodcon
+build/
+
+# IDE stuff
+.vscode/
